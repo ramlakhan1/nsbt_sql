@@ -1,0 +1,9 @@
+
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ì¬ã¹
+Q	java:S125"<This block of commented-out lines of code should be removed.(½š¸Ó
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ì¬ã¹
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ô¡¨˜
+J
+java:S1128"/Remove this unused import 'core.model.DemoAop'.(¦Æ²Œùÿÿÿÿ

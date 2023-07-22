@@ -1,0 +1,26 @@
+
+m
+java:S1192"RDefine a constant instead of duplicating this literal " with arguments: " 4 times.(‚Ÿ¶†ýÿÿÿÿ
+w
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‚Ÿ¶†ýÿÿÿÿ
+w
+java:S2629 "\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ë²¥Úûÿÿÿÿ
+q
+java:S2629'"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¬Ç®T
+M
+java:S2629("7Use the built-in formatting to construct this argument.(ëòÿÛ
+r
+java:S2629/"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¸ÛÓß
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(‚Ÿ¶†ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¬îÄŽÿÿÿÿÿ
+\
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(Ë²¥Úûÿÿÿÿ
+V
+java:S3457'"AFormat specifiers should be used instead of string concatenation.(¬Ç®T
+W
+java:S3457("AFormat specifiers should be used instead of string concatenation.(ëòÿÛ
+W
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(¸ÛÓß
+\
+java:S34570"AFormat specifiers should be used instead of string concatenation.(±œ­»ûÿÿÿÿ

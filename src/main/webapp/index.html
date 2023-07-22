@@ -1,0 +1,21 @@
+<table id="myTable" class="table">
+  <thead>
+    <tr>
+      <th scope="col">QuestionId</th>
+      <th scope="col">QuestionDescription</th>
+      <th scope="col">AnswerDescription</th>
+    </tr>
+  </thead>
+  <tbody>
+  <c:forEach var="e" items="${list}">
+    <tr>
+      <th scope="row">${e.questionId}</th>
+      <td>${e.questionDescription}</td>
+      <td>${e.questionAnswer}</td>
+      <td><a class="btn btn-primary" href="${pageContext.request.contextPath}/maker/edit/${e.customerCode}" onclick="return confirm('Are you sure want to Edit?')">Edit</a></td>
+      <td><button class="btn btn-success" onclick="showData('${e.questionId}')">View</button></td>
+      <td><a class="btn btn-danger"  href="${pageContext.request.contextPath}/maker/delete/${e.questionId}" onclick="return confirm('Are you sure want to Delete?')">Delete</a></td>
+    </tr>
+  </c:forEach>
+  </tbody>
+</table>
